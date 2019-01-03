@@ -30,10 +30,11 @@ Pwd:(NSString *)pwd;  // 用户 在 App内部打开 / 关闭 指纹/面容ID 的
 
 
 
-模拟器测试方法
+模拟器测试方法 Usage:
 
 选中模拟器，菜单栏--> Hardware --> Face ID/Touch ID
 Enrolled                                   相当于已经设置了Face ID或者Touch ID
 Matching Touch/Matching Face               匹配ID
 Non-matching Touch/Non-matching Face       不匹配
+
 
